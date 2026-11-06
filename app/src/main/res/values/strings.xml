@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A9_231A010375</string>
+    <string name="title">Lab A9 – Thực đơn quán ăn</string>
+    <string name="hint_ten">Tên món</string>
+    <string name="hint_gia">Giá (đồng)</string>
+    <string name="them">Thêm món</string>
+    <string name="huong_dan">Chạm để chọn · Giữ lâu một dòng để xóa</string>
+    <string name="desc_anh">Ảnh món ăn</string>
+    <string name="danh_sach_trong">Thực đơn trống — hãy thêm món đầu tiên</string>
+    <string name="moi_them">Món mới thêm</string>
+    <string name="chon_mon">Bạn chọn: %1$s</string>
+    <string name="da_xoa">Đã xóa %1$s</string>
+    <string name="err_ten">Chưa nhập tên món</string>
+    <string name="err_gia">Giá phải là số</string>
+    <string name="err_gia_duong">Giá phải lớn hơn 0</string>
+    <string name="thong_ke">Tổng: %1$d món · Tổng tiền: %2$s</string>
+</resources>
